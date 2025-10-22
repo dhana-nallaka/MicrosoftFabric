@@ -1,4 +1,4 @@
-PROJECT 1: COPY DATA PIPELINE TO COPY FILES FROM SOURCE FOLDER TO THE DESTINATION IN MICROSOFT FABRIC
+**PROJECT 1: COPY DATA PIPELINE TO COPY FILES FROM SOURCE FOLDER TO THE DESTINATION IN MICROSOFT FABRIC**
 
 Step 1: Create a workspace with the desired name for the project
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8bae17ae-8201-450b-b189-7e18b337584b" />
