@@ -1,7 +1,7 @@
 PROJECT 1: COPY DATA PIPELINE TO COPY FILES FROM SOURCE FOLDER TO THE DESTINATION IN MICROSOFT FABRIC
 
 Step 1: Create a workspace with the desired name for the project
-<img width="571" height="780" alt="image" src="https://github.com/user-attachments/assets/8bae17ae-8201-450b-b189-7e18b337584b" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8bae17ae-8201-450b-b189-7e18b337584b" />
 
 Step 2: Create a Lakehouse in the workspace
 <img width="788" height="222" alt="image" src="https://github.com/user-attachments/assets/76535aa4-a21c-40d6-bef9-9522069d30b6" />
